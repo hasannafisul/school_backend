@@ -123,9 +123,8 @@ const car_schema = {
     },
 
     // Column-2, name
-    name: { type: Sequelize.STRING, allowNull: false },
-//kljlkjljk
-//lkjljlkj
+  //testing  // name: { type: Sequelize.STRING, allowNull: false },
+
     // Column-3, email
     email: { type: Sequelize.STRING, allowNull: false },
 
